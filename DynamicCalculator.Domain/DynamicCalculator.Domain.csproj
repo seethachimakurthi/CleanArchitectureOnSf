@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <PackageId>Yajat.Digitalizers.DynamicCalculator.Domain</PackageId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Services\Requests\AuditableEntity\Async\" />
+    <Folder Include="Services\Requests\BaseEntity\Async\" />
+  </ItemGroup>
+
+</Project>
